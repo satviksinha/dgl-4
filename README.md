@@ -27,3 +27,6 @@ You can find course materials in the following sections:
 
 Assignments for this course can be found on the external assignment submission platform. Please visit the [Assignments Website](https://satviksinha.github.io/dgl-2/) to view and submit your assignments.
 
+## Course Website
+[Course site](https://satviksinha.github.io/csf426-notes/)
+
